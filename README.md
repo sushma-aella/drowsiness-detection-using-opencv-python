@@ -37,7 +37,7 @@ Now this ratio is totally dependent on your system which you may configure accor
 
 ![active](https://user-images.githubusercontent.com/105199336/170838879-3c32eedc-21b7-4639-b0e3-0195e7e82cce.png)
 
-
+![drowsy2](https://user-images.githubusercontent.com/105199336/170839115-facdc74d-8508-4742-bb79-4d61d2f6131b.png)
 
 $ python abcd.py \
 	--shape_predictor shape_predictor_68_face_landmarks.dat \
