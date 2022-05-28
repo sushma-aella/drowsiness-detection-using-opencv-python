@@ -24,5 +24,11 @@ The facial landmarks produced by dlib are an indexable list, as shown here:
 
 
 
+# The working of the project can be found here:
+
+
+
+
+
 $ python abcd.py \
 	--shape_predictor shape_predictor_68_face_landmarks.dat \
