@@ -35,11 +35,14 @@ Now we are taking the ratio which is described as '*Sum of distances of vertical
 Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of active,drowsy and sleeping.
 
 
+![active3](https://user-images.githubusercontent.com/105199336/170839474-eb102c48-72b6-4a8e-b5ff-c29f9564f3ba.png)
 
 
 ![drowsy2](https://user-images.githubusercontent.com/105199336/170839115-facdc74d-8508-4742-bb79-4d61d2f6131b.png)
 
+
 ![sleeping2](https://user-images.githubusercontent.com/105199336/170839358-22bad7dd-6e77-44c0-b380-2b1462151b82.png)
+
 
 $ python abcd.py \
 	--shape_predictor shape_predictor_68_face_landmarks.dat \
