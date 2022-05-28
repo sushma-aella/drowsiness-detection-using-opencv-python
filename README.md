@@ -15,13 +15,11 @@ Dlib 68 facelandmark model shows how we can access the face features like eyes,e
 
 
 
+The facial landmarks produced by dlib are an indexable list, as shown here:
 
 
 
-
-
-
-
+![shows-the-face-detection-points-From-the-above-image-the-eyes-are-extracted-by ppm](https://user-images.githubusercontent.com/105199336/170831070-a341d877-a9df-410a-b8f3-63d7ff91dc44.png)
 
 
 
