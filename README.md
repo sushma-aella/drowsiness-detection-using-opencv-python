@@ -25,7 +25,5 @@ Dlib 68 facelandmark model shows how we can access the face features likeeyes,ey
 
 
 
-
-
 $ python abcd.py \
 	--shape_predictor shape_predictor_68_face_landmarks.dat \
