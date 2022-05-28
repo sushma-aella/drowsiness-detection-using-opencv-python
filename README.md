@@ -26,7 +26,7 @@ The facial landmarks produced by dlib are an indexable list, as shown here:
 
 # The working of the project can be found here:
 
-
+![face_landmark image](https://user-images.githubusercontent.com/105199336/170838104-6a3e6de8-8158-4692-a13a-fed42367fa37.png)
 
 
 
