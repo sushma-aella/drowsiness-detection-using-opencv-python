@@ -26,6 +26,7 @@ The facial landmarks produced by dlib are an indexable list, as shown here:
 
 # The working of the project can be found here:
 
+![face_landmark image2](https://user-images.githubusercontent.com/105199336/170839444-8c4e2edf-5351-49bd-95b0-e2d81905f869.png)
 
 As we can see the above image where the landmarks are detected using the detector.
 
@@ -34,7 +35,7 @@ Now we are taking the ratio which is described as '*Sum of distances of vertical
 Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of active,drowsy and sleeping.
 
 
-![active](https://user-images.githubusercontent.com/105199336/170838879-3c32eedc-21b7-4639-b0e3-0195e7e82cce.png)
+
 
 ![drowsy2](https://user-images.githubusercontent.com/105199336/170839115-facdc74d-8508-4742-bb79-4d61d2f6131b.png)
 
