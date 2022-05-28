@@ -15,6 +15,7 @@ Dlib 68 facelandmark model shows how we can access the face features like eyes,e
 
 
 
+
 The facial landmarks produced by dlib are an indexable list, as shown here:
 
 
