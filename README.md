@@ -30,5 +30,11 @@ The facial landmarks produced by dlib are an indexable list, as shown here:
 
 As we can see the above image where the landmarks are detected using the detector.
 
+Now we are taking the ratio which is described as '*Sum of distances of vertical landmarks divided by twice the distance between horizontallandmarks'.
+
+Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of active,drowsy and sleeping.
+
+
+
 $ python abcd.py \
 	--shape_predictor shape_predictor_68_face_landmarks.dat \
