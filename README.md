@@ -22,7 +22,12 @@ The facial landmarks produced by dlib are an indexable list, as shown here:
 
 ![shows-the-face-detection-points-From-the-above-image-the-eyes-are-extracted-by ppm](https://user-images.githubusercontent.com/105199336/170831070-a341d877-a9df-410a-b8f3-63d7ff91dc44.png)
 
+# Testing the OpenCv drowsiness detector
 
+To start,make sure  you use the "Downloads" section to download the source code + dlib's shape_predictor_68_face_landmarks.dat file .
+
+$ python abcd.py \
+	--shape_predictor shape_predictor_68_face_landmarks.dat \
 
 # The working of the project can be found here:
 
@@ -44,5 +49,5 @@ Now this ratio is totally dependent on your system which you may configure accor
 ![sleeping2](https://user-images.githubusercontent.com/105199336/170839358-22bad7dd-6e77-44c0-b380-2b1462151b82.png)
 
 
-$ python abcd.py \
-	--shape_predictor shape_predictor_68_face_landmarks.dat \
+
+
