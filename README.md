@@ -7,10 +7,10 @@ Dlib is used for facial detection and facial landmark detection.
       
 # Logic of project
 
-The project includes direct working with the 68 facial landmark detector and also the face detector of the Dlib library.the 68 facial landmark detector is a robustly trained efficient detector which detects the points on the human face using which we determine whether the eyes are open or they are closed.
+The project includes direct working with the 68 facial landmark detector and also the face detector of the Dlib library.The 68 facial landmark detector is a robustly trained efficient detector which detects the points on the human face using which we determine whether the eyes are open or they are closed.
 
 --shape-predictor : This is the path to dlib’s pre-trained facial landmark detector.
-Dlib 68 facelandmark model shows how we can access the face features like eyes,eyebropws,nose,lips etc.
+Dlib 68 facelandmark model shows how we can access the face features like eyes,eye brows,nose,lips etc.
 
 
 
