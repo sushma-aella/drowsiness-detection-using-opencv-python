@@ -21,8 +21,8 @@ status = ""
 color = (0, 0, 0)
 
 
-def compute(pta, ptb):
-    dist = np.linalg.norm(pta - ptb)
+def compute(ptA, ptB):
+    dist = np.linalg.norm(ptA - ptB)
     return dist
 
 
